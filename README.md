@@ -4,7 +4,7 @@ A propos
 # 👋 Salut, moi c’est Fabrice Dumont
 
 💻 Enseignant en option de transition technique informatique à Bruxelles – Schaerbeek à l'Institut Cardinal Mercier 
-🎓 J’enseigne notamment la programmation, le multimédia, les systèmes d’exploitation et la création de sites web dynamiques.
+🎓 J’enseigne notamment la programmation logicielle, le multimédia, les systèmes d’exploitation et la création de sites web dynamiques.
 
 ---
 
